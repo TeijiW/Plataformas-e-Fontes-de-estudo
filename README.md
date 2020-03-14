@@ -2,12 +2,12 @@
 
 ## Mão na massa (Prática)
 
-- Rocketseat (Javascript)
+- [Rocketseat](https://rocketseat.com.br/) (Javascript)
 - [Skylabs (Rocketseat)](https://skylab.rocketseat.com.br/) (Javascript)
 - [Balta.io](http://balta.io/) (C# e .NET)
 - Udemy
 - Youtube
-  - Gustavo Guanabara
+  - Gustavo Guanabara (Curso em Vìdeo)
   - Node Studio Treinamentos (Web)
   - Filipe Deschamps (Web)
   - LinuxTips (Infraestrutura, Docker e Linux)
@@ -20,3 +20,8 @@
   - Fábio Akita
   - Lucas Montano
   - Filipe Deschamps
+  - Alura
+  
+  ## Blogs
+  - [Gabs Ferreira](http://gabsferreira.com/#open)
+  - [Rocketseat Blog](https://blog.rocketseat.com.br/)
