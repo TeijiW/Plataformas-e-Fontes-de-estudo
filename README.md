@@ -24,7 +24,7 @@
   - Filipe Deschamps
   - Alura
   
-  ## Blogs
+## Blogs
   - [Gabs Ferreira](http://gabsferreira.com/#open)
   - [Rocketseat Blog](https://blog.rocketseat.com.br/)
   - [Gago.io](https://gago.io/)
